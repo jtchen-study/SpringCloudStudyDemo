@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ems_commons/ems_commons.iml" filepath="$PROJECT_DIR$/ems_commons/ems_commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ems_emps/ems_emps.iml" filepath="$PROJECT_DIR$/ems_emps/ems_emps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ems_files/ems_files.iml" filepath="$PROJECT_DIR$/ems_files/ems_files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ems_gateway/ems_gateway.iml" filepath="$PROJECT_DIR$/ems_gateway/ems_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ems_parent.iml" filepath="$PROJECT_DIR$/ems_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ems_users/ems_users.iml" filepath="$PROJECT_DIR$/ems_users/ems_users.iml" />
+    </modules>
+  </component>
+</project>
